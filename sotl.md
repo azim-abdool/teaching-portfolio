@@ -2,6 +2,9 @@
 layout: default
 title: Scholarship of Teaching and Learning
 ---
+**[Home](index.md)** | **[About](about.md)** | **[Philosophy](philosophy.md)** | **[Courses](courses.md)** | **[Curriculum](curriculum.md)** | **[SoTL](sotl.md)** | **[Materials](materials.md)**
+
+---
 
 # Scholarship of Teaching and Learning
 

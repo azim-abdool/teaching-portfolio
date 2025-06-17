@@ -2,6 +2,9 @@
 layout: default
 title: Courses Taught
 ---
+**[Home](index.md)** | **[About](about.md)** | **[Philosophy](philosophy.md)** | **[Courses](courses.md)** | **[Curriculum](curriculum.md)** | **[SoTL](sotl.md)** | **[Materials](materials.md)**
+
+---
 
 # Courses Taught
 

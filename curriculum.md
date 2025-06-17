@@ -2,6 +2,9 @@
 layout: default
 title: Curriculum Development
 ---
+**[Home](index.md)** | **[About](about.md)** | **[Philosophy](philosophy.md)** | **[Courses](courses.md)** | **[Curriculum](curriculum.md)** | **[SoTL](sotl.md)** | **[Materials](materials.md)**
+
+---
 
 # Curriculum Development
 
