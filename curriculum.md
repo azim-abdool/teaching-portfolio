@@ -1,3 +1,8 @@
+---
+layout: default
+title: Curriculum Development
+---
+
 # Curriculum Development
 
 I have contributed to curriculum innovation at both the course and programme level:

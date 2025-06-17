@@ -1,3 +1,8 @@
+---
+layout: default
+title: Teaching Materials
+---
+
 # Teaching Materials
 
 Sample materials and artifacts from my courses:

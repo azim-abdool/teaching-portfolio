@@ -1,3 +1,8 @@
+---
+layout: default
+title: Scholarship of Teaching and Learning
+---
+
 # Scholarship of Teaching and Learning
 
 ## Publications

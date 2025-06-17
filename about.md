@@ -1,3 +1,8 @@
+---
+layout: default
+title: About Me
+---
+
 # About Me
 
 I am an Instructor in the Department of Electrical and Computer Engineering at UWI, St. Augustine. My teaching and research interests span:
@@ -6,4 +11,4 @@ I am an Instructor in the Department of Electrical and Computer Engineering at U
 - Digital Electronics and Programming
 - Engineering Education and Curriculum Innovation
 
-For more details, please see my [CV](./Azim_CV_May25.pdf).
+For more details, please see my [CV](Azim_CV_May25.pdf).

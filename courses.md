@@ -1,3 +1,8 @@
+---
+layout: default
+title: Courses Taught
+---
+
 # Courses Taught
 
 Over the past 15+ years, I have taught and contributed to over 10 unique courses in:
@@ -15,5 +20,3 @@ Over the past 15+ years, I have taught and contributed to over 10 unique courses
 - ECNG1009 – Introduction to Programming
 - ECNG2007 – Software Engineering
 - ECNG3023 – Project Management
-
-Full details and sample materials are available in the [Teaching Materials](materials.md) section.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Teaching Philosophy
+---
+
 # Teaching Philosophy
 
 My teaching philosophy centers on cultivating **curiosity, clarity, and capability**. I believe in:
