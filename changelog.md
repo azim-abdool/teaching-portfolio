@@ -4,14 +4,14 @@ title: Update Log
 ---
 
 <div class="navbar">
-  <a href="index.md">Home</a> |
-  <a href="about.md">About</a> |
-  <a href="philosophy.md">Philosophy</a> |
-  <a href="courses.md">Courses</a> |
-  <a href="curriculum.md">Curriculum</a> |
-  <a href="sotl.md">SoTL</a> |
-  <a href="materials.md">Materials</a> |
-  <a href="changelog.md" class="active">Updates</a>
+  <a href="index">Home</a> |
+  <a href="about">About</a> |
+  <a href="philosophy">Philosophy</a> |
+  <a href="courses">Courses</a> |
+  <a href="curriculum">Curriculum</a> |
+  <a href="sotl">SoTL</a> |
+  <a href="materials">Materials</a> |
+  <a href="changelog" class="active">Updates</a>
 </div>
 
 
