@@ -16,11 +16,12 @@ title: Home
 
 I am **Azim Abdool**, an Instructor in the Department of Electrical and Computer Engineering at The University of the West Indies, St. Augustine. With over 15 years of experience in teaching, supervision, and curriculum development, I specialise in embedded systems, programming, and digital design education.
 
-My approach to teaching blends academic rigour with empathy. I design courses and labs that not only challenge students intellectually but also recognise the emotional and motivational factors that influence learning. My goal is to foster clarity, capability, and curiosity in every student I teach.
+My approach to teaching blends academic rigor with empathy. I design courses and labs that not only challenge students intellectually but also recognize the emotional and motivational factors that influence learning. My goal is to foster confidence in every student I teach.  
+➡️ Learn more about my [teaching philosophy](philosophy).
 
-I am the co-founder of **Fasove**, a Caribbean ed-tech initiative focused on prototyping, invention, and accessibility. I have contributed to the development of over a dozen new courses and a myriad of lab experiences, and have mentored students for national and international innovation competitions.
+I have contributed to the development of over a dozen new courses and a myriad of lab experiences, and have mentored students for national and international innovation competitions. ➡️ Learn more about the [courses](courses) that I teach and [curriculum](curriculum) I have developed.
 
-My current research explores ways to integrate emotional preparedness and neurodiverse learning principles into engineering education. I believe that great teaching begins with trust and context — and that meaningful learning happens when students feel seen, supported, and inspired.
+I am a co-founder of **Fasove**, a Caribbean tech startup. My current education-based research explores ways to integrate emotional preparedness and neurodiverse learning principles into engineering education. I believe that great teaching begins with trust and context — and that meaningful learning happens when students feel seen, supported, and inspired. ➡️ See more in the [Scholarship of Teaching and Learning](sotl) section.
 
 📫 [Email](mailto:azim.abdool@uwi.edu)  
 🔗 [LinkedIn](http://tt.linkedin.com/pub/azim-abdool/21/968/931/)  
