@@ -4,14 +4,14 @@ title: Scholarship of Teaching and Learning
 ---
 
 <div class="navbar">
-  <a href="index.md">Home</a> |
-  <a href="about.md">About</a> |
-  <a href="philosophy.md">Philosophy</a> |
-  <a href="courses.md">Courses</a> |
-  <a href="curriculum.md">Curriculum</a> |
-  <a href="sotl.md" class="active">SoTL</a> |
-  <a href="materials.md">Materials</a> |
-  <a href="changelog.md">Updates</a>
+  <a href="index">Home</a> |
+  <a href="about">About</a> |
+  <a href="philosophy">Philosophy</a> |
+  <a href="courses">Courses</a> |
+  <a href="curriculum">Curriculum</a> |
+  <a href="sotl" class="active">SoTL</a> |
+  <a href="materials">Materials</a> |
+  <a href="changelog">Updates</a>
 </div>
 
 
