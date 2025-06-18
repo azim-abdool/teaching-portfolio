@@ -21,7 +21,7 @@ My approach to teaching blends academic rigor with empathy. I design courses and
 
 I have contributed to the development of over a dozen new courses and a myriad of lab experiences, and have mentored students for national and international innovation competitions. ➡️ Learn more about the [courses](courses) that I teach and [curriculum](curriculum) I have developed.
 
-I am a co-founder of **Fasove**, a Caribbean tech startup. My current education-based research explores ways to integrate emotional preparedness and neurodiverse learning principles into engineering education. I believe that great teaching begins with trust and context — and that meaningful learning happens when students feel seen, supported, and inspired. ➡️ See more in the [Scholarship of Teaching and Learning](sotl) section.
+I am a co-founder of [Fasove](https://fasove.com/), a Caribbean tech startup. My current education-based research explores ways to integrate emotional preparedness and neurodiverse learning principles into engineering education. I believe that great teaching begins with trust and context — and that meaningful learning happens when students feel seen, supported, and inspired. ➡️ See more in the [Scholarship of Teaching and Learning](sotl) section.
 
 📫 [Email](mailto:azim.abdool@uwi.edu)  
 🔗 [LinkedIn](http://tt.linkedin.com/pub/azim-abdool/21/968/931/)  
