@@ -5,7 +5,6 @@ title: Teaching Materials
 
 <div class="navbar">
   <a href="index">Home</a> |
-  <a href="about">About</a> |
   <a href="philosophy">Philosophy</a> |
   <a href="courses">Courses</a> |
   <a href="curriculum">Curriculum</a> |
