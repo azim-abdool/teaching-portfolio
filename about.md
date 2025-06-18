@@ -4,23 +4,22 @@ title: About Me
 ---
 
 <div class="navbar">
-  <a href="index.md">Home</a> |
-  <a href="about.md" class="active">About</a> |
-  <a href="philosophy.md">Philosophy</a> |
-  <a href="courses.md">Courses</a> |
-  <a href="curriculum.md">Curriculum</a> |
-  <a href="sotl.md">SoTL</a> |
-  <a href="materials.md">Materials</a> |
-  <a href="changelog.md">Updates</a>
+  <a href="index">Home</a> |
+  <a href="about" class="active">About</a> |
+  <a href="philosophy">Philosophy</a> |
+  <a href="courses">Courses</a> |
+  <a href="curriculum">Curriculum</a> |
+  <a href="sotl">SoTL</a> |
+  <a href="materials">Materials</a> |
+  <a href="changelog">Updates</a>
 </div>
 
 
 # About Me
 
-I am an Instructor in the Department of Electrical and Computer Engineering at UWI, St. Augustine. My academic journey spans:
+I am an Instructor in the Department of Electrical and Computer Engineering at The UWI, St. Augustine. My academic journey spans:
 
 - BSc, MPhil, and PhD (submitted) in Electrical and Computer Engineering
 - 15+ years in academic instruction, project supervision, and curriculum renewal
-- Leadership in embedded systems and educational prototyping through Fasove
+- Leadership in embedded systems and educational scholarship
 
-I regularly mentor student teams for national/international competitions and participate in outreach and university governance.
