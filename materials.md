@@ -2,17 +2,16 @@
 layout: default
 title: Teaching Materials
 ---
-<div class="navbar">
-  <a href="index.md">Home</a> |
-  <a href="about.md">About</a> |
-  <a href="philosophy.md">Philosophy</a> |
-  <a href="courses.md">Courses</a> |
-  <a href="curriculum.md">Curriculum</a> |
-  <a href="sotl.md">SoTL</a> |
-  <a href="materials.md" class="active">Materials</a>
-</div>
+**[Home](index.md)** | **[About](about.md)** | **[Philosophy](philosophy.md)** | **[Courses](courses.md)** | **[Curriculum](curriculum.md)** | **[SoTL](sotl.md)** | **[Materials](materials.md)**
 
+---
 
 # Teaching Materials
 
-This is a placeholder for the **Teaching Materials** section.
+Sample materials and artifacts from my courses:
+
+- [ECNG1009] Intro Programming: Lab Sheets and Assessments (2024)
+- [ECNG2005] Community Project: Project Rubrics
+- [ECNG3016] Digital Systems: VHDL Labs and Project Guides
+
+(Please contact me for access to full repositories or downloadable files.)

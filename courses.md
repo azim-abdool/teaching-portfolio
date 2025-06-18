@@ -2,17 +2,24 @@
 layout: default
 title: Courses Taught
 ---
-<div class="navbar">
-  <a href="index.md">Home</a> |
-  <a href="about.md">About</a> |
-  <a href="philosophy.md">Philosophy</a> |
-  <a href="courses.md" class="active">Courses</a> |
-  <a href="curriculum.md">Curriculum</a> |
-  <a href="sotl.md">SoTL</a> |
-  <a href="materials.md">Materials</a>
-</div>
+**[Home](index.md)** | **[About](about.md)** | **[Philosophy](philosophy.md)** | **[Courses](courses.md)** | **[Curriculum](curriculum.md)** | **[SoTL](sotl.md)** | **[Materials](materials.md)**
 
+---
 
 # Courses Taught
 
-This is a placeholder for the **Courses Taught** section.
+Over the past 15+ years, I have taught and contributed to over 10 unique courses in:
+
+## Microprocessors & Embedded Systems
+- ECNG2006 – Microprocessor Systems Design
+- ECNG2005 – Capstone Community Project
+- ECNG3034 – Embedded Product Development
+
+## Electronics
+- ECNG3016 – Digital Systems Design
+- ECNG2004 – Digital Logic & Design
+
+## Programming & Software Engineering
+- ECNG1009 – Introduction to Programming
+- ECNG2007 – Software Engineering
+- ECNG3023 – Project Management

@@ -2,17 +2,16 @@
 layout: default
 title: About Me
 ---
-<div class="navbar">
-  <a href="index.md">Home</a> |
-  <a href="about.md" class="active">About</a> |
-  <a href="philosophy.md">Philosophy</a> |
-  <a href="courses.md">Courses</a> |
-  <a href="curriculum.md">Curriculum</a> |
-  <a href="sotl.md">SoTL</a> |
-  <a href="materials.md">Materials</a>
-</div>
+**[Home](index.md)** | **[About](about.md)** | **[Philosophy](philosophy.md)** | **[Courses](courses.md)** | **[Curriculum](curriculum.md)** | **[SoTL](sotl.md)** | **[Materials](materials.md)**
 
+---
 
 # About Me
 
-This is a placeholder for the **About Me** section.
+I am an Instructor in the Department of Electrical and Computer Engineering at UWI, St. Augustine. My teaching and research interests span:
+
+- Embedded and Microprocessor Systems
+- Digital Electronics and Programming
+- Engineering Education and Curriculum Innovation
+
+For more details, please see my [CV](Azim_CV_May25.pdf).
