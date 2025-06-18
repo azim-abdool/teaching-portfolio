@@ -21,8 +21,9 @@ I primarily teach computer-systems related courses. Originally, I taught electro
 
 ## Embedded & Microprocessor Systems
 I am currently heavily involved in teaching these courses. 
-- ECNG2006 - Introduction to Microprocessors. This is a level 2 undergraduate course, and the undergrad students' first foray into the world of embedded systems. Prior to this course, they would have been introduced to both electronics and programming. This course bridges those concepts and introduces the student to exploiting a processor architecture using assembly to implement small-scale embedded systems involving the Microchip PIC 8-bit MCU. 
-- ECNG2005, ECNG3006, ECNG3034 (Capstone)
+- ECNG2006 - Introduction to Microprocessors. This is a level 2 undergraduate course, and the undergrad students' first foray into the world of embedded systems. Prior to this course, they would have been introduced to both electronics and programming. This course bridges those concepts. It introduces the student to exploiting a processor architecture using assembly to implement small-scale embedded systems involving the Microchip PIC16, an 8-bit RISC MCU. 
+- ECNG2005 - Lab and Project Design 3. This is a level 2 capstone laboratory and project course. The focus of this course is on developing a students' professional practice. The laboratory content associated with ECNG2006's microprocessor content is delivered in this course. However, this course's focus is primarily geared toward proficient **use of lab tools in application context**. I am the lead for this module. I have been an examiner and project supervisor for the community project, another module in this course, for over 15 years. Student teams are sent to various communities for this project to develop and deploy an engineering solution to serve currently unmet needs. 
+- ECNG3006, ECNG3034 (Capstone)
 - I've also supported ECNG3029 (Robotics) in the recent past as it aligns with my area of expertise. 
 
 ## Programming & Software Engineering 
