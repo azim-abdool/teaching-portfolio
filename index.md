@@ -24,4 +24,4 @@ This site documents my teaching history, curriculum work, innovative projects, a
 🔗 [LinkedIn](http://tt.linkedin.com/pub/azim-abdool/21/968/931/)  
 📄 [Download CV](Azim_CV_May25.pdf)  
 🔍 [Google Scholar Profile](https://scholar.google.com/citations?user=m_Ouj0IAAAAJ&hl=en)  
-📺 [YouTube Channel](https://www.youtube.com/@azimabdool)
+📺 [YouTube Channel](https://www.youtube.com/@AzimAbd001)
