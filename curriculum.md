@@ -2,16 +2,24 @@
 layout: default
 title: Curriculum Development
 ---
-**[Home](index.md)** | **[About](about.md)** | **[Philosophy](philosophy.md)** | **[Courses](courses.md)** | **[Curriculum](curriculum.md)** | **[SoTL](sotl.md)** | **[Materials](materials.md)**
 
----
+<div class="navbar">
+  <a href="index.md">Home</a> |
+  <a href="about.md">About</a> |
+  <a href="philosophy.md">Philosophy</a> |
+  <a href="courses.md">Courses</a> |
+  <a href="curriculum.md" class="active">Curriculum</a> |
+  <a href="sotl.md">SoTL</a> |
+  <a href="materials.md">Materials</a> |
+  <a href="changelog.md">Updates</a>
+</div>
+
 
 # Curriculum Development
 
-I have contributed to curriculum innovation at both the course and programme level:
+- Led development of 13+ new courses (Electronics, Programming, Embedded)
+- Coordinated rollout of revised CSEG programme
+- Developed 25+ new lab assessments across 6 different courses
+- Initiated integrated course-lab thematic structures (Foundations, Embedded Dev)
 
-- Led course development for 13+ new courses in electronics, programming, and embedded systems
-- Developed new laboratory assessments across 6 different courses
-- Coordinated programme renewal and accreditation follow-up
-
-Notable efforts include the rollout of the **CSEG Programme** and introduction of thematic, hands-on learning practices.
+Committed to alignment with accreditation and industry relevance.

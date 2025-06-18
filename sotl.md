@@ -2,20 +2,30 @@
 layout: default
 title: Scholarship of Teaching and Learning
 ---
-**[Home](index.md)** | **[About](about.md)** | **[Philosophy](philosophy.md)** | **[Courses](courses.md)** | **[Curriculum](curriculum.md)** | **[SoTL](sotl.md)** | **[Materials](materials.md)**
 
----
+<div class="navbar">
+  <a href="index.md">Home</a> |
+  <a href="about.md">About</a> |
+  <a href="philosophy.md">Philosophy</a> |
+  <a href="courses.md">Courses</a> |
+  <a href="curriculum.md">Curriculum</a> |
+  <a href="sotl.md" class="active">SoTL</a> |
+  <a href="materials.md">Materials</a> |
+  <a href="changelog.md">Updates</a>
+</div>
+
 
 # Scholarship of Teaching and Learning
 
 ## Publications
-- Abdool, A. et al., *DataRPG: Improving student motivation in data science through gaming elements*, IEEE FIE, 2017
-- Abdool, A., Radix, C. et al., *Using Mind Maps for Learning Improvement*, Caribbean Teaching Scholar, 2013
+- *Using Mind Maps for Learning Quality*, Caribbean Teaching Scholar
+- *DataRPG: Gamified Data Science Teaching*, IEEE FIE
+- *Peer Mentorship Models*, IEEE FIE
 
-## YouTube Channels
-- [Microprocessor Education](https://www.youtube.com/@azimabdool)
-- [Software Engineering Practice](https://www.youtube.com/@azimabdool)
+## Platforms
+- [Google Scholar](https://scholar.google.com/citations?user=m_Ouj0IAAAAJ&hl=en)
+- [Microprocessor YouTube Channel](https://www.youtube.com/@azimabdool)
 
-## CPD & Outreach
-- Organizer: Robotics Education Workshop for Teachers
-- Invited speaker at UWI’s “Celebrating University Teaching Week”
+## Development
+- Published public compendiums
+- Organized CPD workshops

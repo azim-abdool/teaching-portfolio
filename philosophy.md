@@ -2,16 +2,24 @@
 layout: default
 title: Teaching Philosophy
 ---
-**[Home](index.md)** | **[About](about.md)** | **[Philosophy](philosophy.md)** | **[Courses](courses.md)** | **[Curriculum](curriculum.md)** | **[SoTL](sotl.md)** | **[Materials](materials.md)**
 
----
+<div class="navbar">
+  <a href="index.md">Home</a> |
+  <a href="about.md">About</a> |
+  <a href="philosophy.md" class="active">Philosophy</a> |
+  <a href="courses.md">Courses</a> |
+  <a href="curriculum.md">Curriculum</a> |
+  <a href="sotl.md">SoTL</a> |
+  <a href="materials.md">Materials</a> |
+  <a href="changelog.md">Updates</a>
+</div>
+
 
 # Teaching Philosophy
 
-My teaching philosophy centers on cultivating **curiosity, clarity, and capability**. I believe in:
+I believe effective engineering education fosters:
+- **Curiosity** through exploration and creativity
+- **Clarity** through scaffolded guidance and feedback
+- **Capability** through real-world applications and reflective practice
 
-- Encouraging independent thinking through inquiry-based learning
-- Grounding abstract concepts with real-world applications
-- Creating inclusive and motivating environments for diverse learners
-
-I view teaching as a collaborative process, where mutual feedback drives growth.
+I blend lectures, labs, peer mentorship, and open assessment design to ensure meaningful student development.
