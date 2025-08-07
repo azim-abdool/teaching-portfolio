@@ -14,12 +14,12 @@ title: Home
 
 # Welcome
 
-I am **Azim Abdool**, an Assistant Lecturer in the Department of Electrical and Computer Engineering at The University of the West Indies, St. Augustine. With over 15 years of experience in teaching, supervision, and curriculum development, I specialise in embedded systems, programming, and digital design education.
+I am **Azim Abdool**, an Assistant Lecturer in the Department of Electrical and Computer Engineering at The University of the West Indies, St. Augustine. With over 15 years of experience (since 2006) in teaching, supervision, and curriculum development, I specialise in embedded systems, programming, and digital design education. I also actively research sustainable and affective embedded systems as the Principal Investigator of the Sustainable Embedded and Micro-Intelligence (SEMI) Lab as part of the AI Innovation Centre at The UWI. 
 
-My approach to teaching blends academic rigor with empathy. I design courses and labs that not only challenge students intellectually but also recognize the emotional and motivational factors that influence learning. My goal is to foster confidence in every student I teach.  
+My approach to teaching blends academic rigour with empathy. I design courses and labs that not only challenge students intellectually but also recognise the emotional and motivational factors that influence learning. My goal is to foster confidence in every student I teach.  
 ➡️ Learn more about my [teaching philosophy](philosophy).
 
-I have contributed to the development of over a dozen new courses and a myriad of lab experiences, and have mentored students for national and international innovation competitions. ➡️ Learn more about the [courses](courses) that I teach and [curriculum](curriculum) I have developed.
+I have contributed to the development of over a dozen new courses and numerous lab experiences, and have mentored students in national and international innovation competitions. ➡️ Learn more about the [courses](courses) that I teach and [curriculum](curriculum) I have developed.
 
 I am a co-founder of [Fasove](https://fasove.com/), a Caribbean tech startup. My current education-based research explores ways to integrate emotional preparedness and neurodiverse learning principles into engineering education. I believe that great teaching begins with trust and context — and that meaningful learning happens when students feel seen, supported, and inspired. ➡️ See more in the [Scholarship of Teaching and Learning](sotl) section.
 
