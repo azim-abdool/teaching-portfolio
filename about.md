@@ -17,7 +17,7 @@ title: About Me
 
 # About Me
 
-I am an Instructor in the Department of Electrical and Computer Engineering at The UWI, St. Augustine. My academic journey spans:
+I am an Assistant Lecturer in the Department of Electrical and Computer Engineering at The UWI, St. Augustine. My academic journey spans:
 
 - BSc, MPhil, and PhD (submitted) in Electrical and Computer Engineering
 - 15+ years in academic instruction, project supervision, and curriculum renewal
