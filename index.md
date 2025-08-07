@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Azim Abdool's Teaching Portfolio
 ---
 
 <div class="navbar">
