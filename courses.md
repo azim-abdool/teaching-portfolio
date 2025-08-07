@@ -16,7 +16,7 @@ title: Courses Taught
 
 # Courses Taught
 
-I primarily teach computer-systems related courses. Originally, I taught electronics-focused courses, with a slant toward digital systems, primarily with a strong focus on prototyping using FPGA-based systems. In the recent past, I was redeployed to teach more software and programming-focused courses, at all levels in the Department's curriculum. However, I've now been asked to take a role that bridges both the Electrical Engineering and Computer Engineering Worlds. I've happily joined my first area of electronics with my recent past in software to yield my current teaching curricula focus on embedded or cyber-physical computing. 
+I primarily teach computer-systems related courses. Originally, I taught electronics-focused courses, with a slant toward prototyping digital systems using FPGA-based systems. In the recent past, I was redeployed to teach more software and programming-focused courses, at all levels in the Department's curriculum. However, I've now been asked to take a role that bridges both the Electrical Engineering and Computer Engineering Worlds. I've happily joined my first area of electronics with my recent past in software to yield my current teaching curricula focus on embedded or cyber-physical computing. 
 
 ## Embedded & Microprocessor Systems
 I am currently heavily involved in teaching these courses. 
@@ -26,6 +26,9 @@ I am currently heavily involved in teaching these courses.
 - I've also supported ECNG3029 (Robotics) in the recent past as it aligns with my area of expertise. 
 
 ## Programming & Software Engineering 
+I am now working on a new course for the MASc in Artificial Intelligence: 
+- Graduate: ECNG66xx - Data Engineering
+- This course meshes quite well with my current area of embedded systems, as I can take a unique slant when teaching data engineering in the context of uncertain, multimodal data streams, in particular where we may be dealing with real-time, resource-constrained devices; and how these may affect intelligent systems. 
 I have taught these courses in the recent past. I still contribute to these courses, but I've now taken a more backseat role as a guest examiner and lecturer.
 - UG Level 1: ECNG1009 - Introduction to Programming
 - UG Level 2: ECNG2007 - Computer Systems and Software Design
