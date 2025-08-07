@@ -14,7 +14,7 @@ title: Home
 
 # Welcome
 
-I am **Azim Abdool**, an Instructor in the Department of Electrical and Computer Engineering at The University of the West Indies, St. Augustine. With over 15 years of experience in teaching, supervision, and curriculum development, I specialise in embedded systems, programming, and digital design education.
+I am **Azim Abdool**, an Assistant Lecturer in the Department of Electrical and Computer Engineering at The University of the West Indies, St. Augustine. With over 15 years of experience in teaching, supervision, and curriculum development, I specialise in embedded systems, programming, and digital design education.
 
 My approach to teaching blends academic rigor with empathy. I design courses and labs that not only challenge students intellectually but also recognize the emotional and motivational factors that influence learning. My goal is to foster confidence in every student I teach.  
 ➡️ Learn more about my [teaching philosophy](philosophy).
