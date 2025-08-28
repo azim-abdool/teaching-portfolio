@@ -35,14 +35,14 @@ I am now working on a new course for the MASc in Artificial Intelligence - due t
 
 ## Programming & Software Engineering 
 
-I have taught these courses in the recent past. I still contribute to these courses, but I've now taken a more backseat role as a guest examiner and lecturer.
-- UG Level 1: ECNG1009 - Introduction to Programming
-- UG Level 2: ECNG2007 - Computer Systems and Software Design
-- UG Level 3: ECNG3023 - Software Engineering
+I have taught these courses in the recent past. I still contribute to these courses, but I've now taken a more backseat role as a guest examiner and lecturer. I particularly miss ECNG3023 where I changed the curricula to consider more practical work with software management. 
+- UG Level 1: ECNG1009 - Introduction to Programming: An introductory programming course using C++. 
+- UG Level 2: ECNG2007 - Computer Systems and Software Design: A continuation of the level 1 programming course, but with a performance slant. There is an introduction to algorithms and data structures; as well as a project which allows the student to investigate a specific technology framework and apply it to a real-world problem. 
+- UG Level 3: ECNG3023 - Software Engineering: On the management of software systems and applying the software lifecycle to a problem. This course has a unique peer mentoring system where the students in this course manage the product development carried out by the students of the level 2 ECNG2007. A practical experience for students of both courses. 
 - Graduate: ECNG6613 - Database Systems
 
 ## Electronics 
-I have delivered these courses in the past, but I no longer meaningfully contribute to them. 
-- ECNG3016 - Advanced Digital Electronics: A capstone electronics course involving performance in digital electronics systems
-- ECNG2004 - Lab and Project Design 2: A laboratory course which focuses on rapid prototyping electronics systems utilizing FPGAs
-- ECNG6601 - Digital Electronics Systems: I have delivered guest lectures on FPGA prototyping. I have not been an examiner for this course. 
+I have delivered these courses in the past, but I no longer meaningfully contribute to them. I remain a guest examiner for ECNG2004's project demonstrations. 
+- ECNG2004 - Lab and Project Design 2: A laboratory course which focuses on rapid prototyping electronics systems utilizing FPGAs.
+- ECNG3016 - Advanced Digital Electronics: A capstone electronics course involving performance in digital electronics systems.
+- ECNG6601 - Digital Electronics Systems: I have delivered guest lectures on FPGA prototyping. I have not been an examiner for this course.
